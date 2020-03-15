@@ -20,7 +20,7 @@ namespace Game1
         private Rectangle ball1Rectangle = new Rectangle(new Point(210, 670), new Point(30, 30));
         private Block[,] blockArray = new Block[8, 8];
         
-
+        //this is a test
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this)
